@@ -1,4 +1,4 @@
-package egovfx;
+package egov.fx;
 	
 import javafx.application.Application;
 import javafx.stage.Stage;
